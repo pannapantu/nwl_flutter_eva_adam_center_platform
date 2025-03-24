@@ -1,0 +1,6 @@
+{
+    "cody.commandHints.enabled": false,
+    "cody.codeActions.enabled": false,
+    "cody.autocomplete.completeSuggestWidgetSelection": false,
+    "dart.openDevTools": "flutter"
+}
