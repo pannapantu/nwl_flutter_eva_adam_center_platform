@@ -1,0 +1,2 @@
+# nwl_flutter_eva_adam_center_platform
+flutter center platform
